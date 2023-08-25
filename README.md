@@ -1,4 +1,4 @@
-# DIO | Resumos Git e GutHub
+## DIO | Resumos Git e GutHub
 
 Repositório para armazenar resumos sobre Git e GitHub do curso Santander da [Digital Innovation One](https://www.dio.me/)
 
@@ -9,4 +9,4 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Santander da [Di
 ## Resumos das aulas
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no Repositório local |
+|Gravando alterações no Repositório local | resumo aula-01 |
